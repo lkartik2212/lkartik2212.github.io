@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* animation */
+
+
+header h1 {
+    -webkit-animation-name: slideAnimation;
+    -webkit-animation-duration: 3s;
+    -webkit-animation-iteration-count: 1;
+	-webkit-transition: all 2s ease-in-out;
+	-moz-transition: all 2s ease-in-out;
+	-o-transition: all 2s ease-in-out;
+	transition: all 2s ease-in-out;
+	
+}
+
+	
+@-webkit-keyframes slideAnimation {
+
+	0% {-webkit-transform: translateY(-30px); opacity:0;}
+    100% {-webkit-transform: translateY(0);}
+}

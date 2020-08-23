@@ -1,0 +1,92 @@
+body {
+    font-family: 'mate';
+    font-size: 12pt;
+    line-height: 1.5em;
+    color: #555;
+    text-align: center;
+    margin: 0px;
+}
+
+.full { width: 950px; }
+.lfull { width: 600px; }
+.half { width: 350px; }
+.lhalf { width: 275px; }
+.llhalf { width: 150px; }
+
+
+td { vertical-align: top; }
+td.middle {vertical-align: middle; }
+
+div#header-container {
+    background: #333;
+}
+
+div#header {
+    margin: auto;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+}
+
+div#main-container {
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+table#current-contact {
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #444;
+    border-left: 1px solid #444;
+    border-right: 1px solid #444;
+}
+
+div#current {
+    padding-left: 15px;
+}
+
+div#contact {
+    text-align: right;
+    padding-right: 15px;
+}
+
+table#pubs {
+    margin: auto;
+    text-align: left;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+    background: #e0e0e0;
+}
+
+table#others {
+    margin-top: 15px;
+}
+
+div.section {
+    text-align: left;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+div#footer {
+    margin: auto;
+    text-align: left;
+    background: #333;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 38px;
+}
+
+div#footer-left {
+    float: left;
+}
+
+div#footer-right {
+    float: right;
+}

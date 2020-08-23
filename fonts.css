@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'droid';
+    font-weight: normal;
+    font-style: normal;
+    src: url("/~vseshadr/fonts/droid.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'droid';
+    font-weight: bold;
+    font-style: normal;
+    src: url('/~vseshadr/fonts/droid-bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'bebas';
+    font-weight: normal;
+    font-style: normal;
+    src: url('/~vseshadr/fonts/bebas.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'josefin-sans';
+    font-weight: normal;
+    font-style: normal;
+    src: url("/~vseshadr/fonts/josefin-sans.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'josefin-sans';
+    font-weight: normal;
+    font-weight: bold;
+    src: url("/~vseshadr/fonts/josefin-sans-bold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'josefin-sans';
+    font-weight: normal;
+    font-weight: semibold;
+    src: url("/~vseshadr/fonts/josefin-sans-semibold.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'pt-sans';
+    font-weight: normal;
+    font-style: normal;
+    src: url("/~vseshadr/fonts/PTS55F.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'mate';
+    font-weight: normal;
+    font-style: normal;
+    src: url("/~vseshadr/fonts/Mate-Regular.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'mate';
+    font-weight: normal;
+    font-style: italic;
+    src: url("/~vseshadr/fonts/Mate-Italic.ttf") format('truetype');
+}
+
